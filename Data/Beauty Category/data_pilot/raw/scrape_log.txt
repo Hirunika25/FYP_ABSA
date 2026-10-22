@@ -1,0 +1,9 @@
+2026-10-07 12:30:33,473  INFO  === Run 20261007_123033 started ===
+2026-10-07 12:30:34,775  INFO  Searching 'face wash' page 1 (products needing a visit: 0)
+2026-10-07 12:30:41,867  INFO  Already stored: 0 reviews | products to visit this run: 2
+2026-10-07 12:30:41,868  INFO  165834958 (new) page 1 | saved for product: 0/10 | new this run: 0
+2026-10-07 12:30:48,091  INFO  165834958 (new) page 2 | saved for product: 5/10 | new this run: 5
+2026-10-07 12:30:54,430  INFO  125201805 (new) page 1 | saved for product: 0/10 | new this run: 10
+2026-10-07 12:30:59,678  INFO  125201805 (new) page 2 | saved for product: 5/10 | new this run: 15
+2026-10-07 12:31:05,321  INFO  CSV written: data_pilot\raw\daraz_reviews.csv (20 rows)
+2026-10-07 12:31:05,348  INFO  === Run 20261007_123033 finished (completed): {'products_seen': 40, 'visited': 2, 'skipped_complete': 0, 'skipped_below_min': 0, 'pages': 4, 'new': 20, 'duplicate': 0, 'empty': 0} ===

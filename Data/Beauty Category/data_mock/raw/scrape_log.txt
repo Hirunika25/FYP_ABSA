@@ -1,0 +1,18 @@
+2026-10-07 12:04:42,906  INFO  === Run 20261007_120442 started ===
+2026-10-07 12:04:42,908  INFO  Searching 'mock' page 1 (products needing a visit: 0)
+2026-10-07 12:04:42,910  INFO  Searching 'mock' page 2 (products needing a visit: 2)
+2026-10-07 12:04:42,911  INFO  Already stored: 0 reviews | products to visit this run: 2
+2026-10-07 12:04:42,912  INFO  111 (new) page 1 | saved for product: 0/20 | new this run: 0
+2026-10-07 12:04:42,917  INFO  111 (new) page 2 | saved for product: 5/20 | new this run: 5
+2026-10-07 12:04:42,920  INFO  333 (new) page 1 | saved for product: 0/20 | new this run: 10
+2026-10-07 12:04:42,922  INFO  333 (new) page 2 | saved for product: 5/20 | new this run: 15
+2026-10-07 12:04:42,952  INFO  CSV written: data_mock\raw\daraz_reviews.csv (18 rows)
+2026-10-07 12:04:42,969  INFO  === Run 20261007_120442 finished (completed): {'products_seen': 2, 'visited': 2, 'skipped_complete': 0, 'skipped_below_min': 0, 'pages': 4, 'new': 18, 'duplicate': 0, 'empty': 0} ===
+2026-10-07 12:05:12,634  INFO  === Run 20261007_120512 started ===
+2026-10-07 12:05:12,643  INFO  Searching 'mock' page 1 (products needing a visit: 1)
+2026-10-07 12:05:12,644  INFO  Searching 'mock' page 2 (products needing a visit: 1)
+2026-10-07 12:05:12,646  INFO  Already stored: 18 reviews | products to visit this run: 1
+2026-10-07 12:05:12,648  INFO  111 (backlog) page 2 | saved for product: 10/20 | new this run: 0
+2026-10-07 12:05:12,650  INFO  111 (backlog) page 3 | saved for product: 10/20 | new this run: 0
+2026-10-07 12:05:12,663  INFO  CSV written: data_mock\raw\daraz_reviews.csv (23 rows)
+2026-10-07 12:05:12,666  INFO  === Run 20261007_120512 finished (completed): {'products_seen': 2, 'visited': 1, 'skipped_complete': 1, 'skipped_below_min': 0, 'pages': 2, 'new': 5, 'duplicate': 5, 'empty': 0} ===
